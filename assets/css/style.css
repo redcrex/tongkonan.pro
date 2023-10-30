@@ -642,7 +642,7 @@ section {
   left: 0;
   top: 2px;
   font-size: 20px;
-  color: #42d1d5;
+  color: #800000;
   line-height: 1;
 }
 
@@ -660,16 +660,16 @@ section {
   border-radius: 8px;
   transition: 0.3s;
   line-height: 1;
-  color: #42d1d5;
+  color: #ff0000;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   margin-top: 6px;
-  border: 2px solid #42d1d5;
+  border: 2px solid #ff0000;
 }
 
 .about .content .btn-learn-more:hover {
-  background: #42d1d5;
-  color: #fff;
+  background: #ffffff;
+  color: #800000;
   text-decoration: none;
 }
 
